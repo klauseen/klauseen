@@ -25,6 +25,6 @@
     <img src="images/second.png" alt="LinkedIn" width="120" style="vertical-align: middle;">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100005721678865">
-    <img src="images/fb.png" alt="Facebook" width="120" style="vertical-align: middle;">
+    <img src="images/fb.png" alt="Facebook" width="100" style="vertical-align: middle;">
   </a>
 </div>
