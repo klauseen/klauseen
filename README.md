@@ -21,7 +21,7 @@
 
 <h2><b>📧Contacts</b></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/nikolaos-moraru/" target="_blank">
+  <a href="https://www.linkedin.com/in/nikolaos-moraru-7a9ba11ab/" target="_blank">
     <img src="images/second.png" alt="LinkedIn" width="120" style="vertical-align: middle;">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100005721678865" target="_blank">
