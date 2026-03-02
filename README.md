@@ -21,10 +21,8 @@
 
 <h2><b>📧Contacts</b></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/nikolaos-moraru-7a9ba11ab/" >
-    <img src="images/second.png" alt="LinkedIn" width="120" style="vertical-align: middle;">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100005721678865">
-    <img src="images/fb.png" alt="Facebook" width="100" style="vertical-align: middle;">
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikolaos-moraru-7a9ba11ab/" target="_blank"><img src="images/second.png" alt="LinkedIn" height="80"></a>
+  <a href="https://www.facebook.com/profile.php?id=100005721678865" target="_blank"><img src="images/fb.png" alt="Facebook" height="80"></a>
+</p>
 </div>
