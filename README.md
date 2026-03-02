@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/World Hello Sticker by JUSTROCKET.gif" width="150" style="vertical-align: middle;"> 
+  <img src="images/World Hello Sticker by JUSTROCKET.gif" width="80" style="vertical-align: middle;"> 
   🙋‍♂️ I am Nikolaos
 </h1>
 
@@ -21,10 +21,10 @@
 
 <h2><b>📧Contacts</b></h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/nikolaos-moraru-7a9ba11ab/" target="_blank">
+  <a href="https://www.linkedin.com/in/nikolaos-moraru-7a9ba11ab/" >
     <img src="images/second.png" alt="LinkedIn" width="120" style="vertical-align: middle;">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100005721678865" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100005721678865">
     <img src="images/fb.png" alt="Facebook" width="120" style="vertical-align: middle;">
   </a>
 </div>
