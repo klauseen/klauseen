@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="images/World Hello Sticker by JUSTROCKET.gif" width="150" style="vertical-align: middle;"> 
+  <img src="images/World Hello Sticker by JUSTROCKET.gif" width="100" style="vertical-align: middle;"> 
   🙋‍♂️ I am Nikolaos
 </h1>
 
