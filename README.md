@@ -7,7 +7,7 @@
 
 - 🎓Currently a student who is passionate about software in <b> Java</b>
 
-- 📚 In present I am improving <b>
+- 📚 In present I am improving my <b>
 back-end</b> skills
 - 🌱 Want to learn more about <b>Web Development</b>
 
